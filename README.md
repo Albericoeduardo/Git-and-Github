@@ -13,7 +13,7 @@ Repositório para armazenar resumos e comando sobre Git e GitHub do curso de Ver
 | Configurando o Git | [Resumo]() |
 | Autenticação via Token e SSH | [Resumo]() |
 | Criando e clonando Repositórios | [Resumo]() |
-| Salvando alterações no Repositório Local | [Resumo]() |
+| Salvando alterações no Repositório Local | [Resumo](https://github.com/Albericoeduardo/Git-and-Github/blob/main/Aulas/Salvando-Alteracoes-no-repositorio-local.md) |
 
 
 ## 👩‍💻 Comandos mais importantes
