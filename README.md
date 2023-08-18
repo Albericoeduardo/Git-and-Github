@@ -1,3 +1,4 @@
+
 # DIO | Git e GitHub
 
 Repositório para armazenar resumos e comando sobre Git e GitHub do curso de Versionamento de Código da [Digital Innovation One](https://www.dio.me/).
@@ -10,6 +11,10 @@ Repositório para armazenar resumos e comando sobre Git e GitHub do curso de Ver
 | Aula | Resumo |
 | ---- | ------ |
 | Configurando o Git | [Resumo]() |
+| Autenticação via Token e SSH | [Resumo]() |
+| Criando e clonando Repositórios | [Resumo]() |
+| Salvando alterações no Repositório Local | [Resumo]() |
+
 
 ## 👩‍💻 Comandos mais importantes
 
@@ -45,3 +50,4 @@ $ git pull
 ```
 ## 🔍 Referências
 - [Digital Innovation One](https://www.dio.me/)
+
