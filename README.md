@@ -14,6 +14,9 @@ Repositório para armazenar resumos e comando sobre Git e GitHub do curso de Ver
 | Autenticação via Token e SSH | [Resumo]() |
 | Criando e clonando Repositórios | [Resumo]() |
 | Salvando alterações no Repositório Local | [Resumo](https://github.com/Albericoeduardo/Git-and-Github/blob/main/Aulas/Salvando-Alteracoes-no-repositorio-local.md) |
+| Enviando e baixando alterações com repositorio remoto | [Resumo]() |
+| Branches - Criando, Mesclando, Deletando e Tratando conflitos | [Resumo]() |
+| Branches - Comandos úteis | [Resumo]() |
 
 
 ## 👩‍💻 Comandos mais importantes
@@ -50,4 +53,3 @@ $ git pull
 ```
 ## 🔍 Referências
 - [Digital Innovation One](https://www.dio.me/)
-
